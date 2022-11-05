@@ -459,7 +459,7 @@ apisix:
     enabled: true
 
   ingress-controller:
-    enabled: true
+    enabled: false
     config:
       # # the error log level, default is info, optional values are:
       # # debug
