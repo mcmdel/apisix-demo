@@ -531,7 +531,7 @@ apisix:
         # Before we announce support for it to reach Beta level or GA.
         enableGatewayAPI: false
       apisix:
-        serviceNamespace: ingress-apisix
+        serviceNamespace: default
 
   vault:
     enabled: false
