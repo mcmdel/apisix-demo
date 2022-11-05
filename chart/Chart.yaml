@@ -1,0 +1,9 @@
+apiVersion: v2
+name: apisix-demo
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+dependencies:
+- name: apisix
+  version: 0.11.1
+  repository: https://charts.apiseven.com
